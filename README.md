@@ -4,6 +4,7 @@
 
 - 📚 Técnico em Desenvolvimento de Sistemas
 - 🇧🇷 Competidor Brazil na WordSkills Lyon 2024
+- 👨🏻‍💻 Desenvolvedor de aplicativos
 - 🧐 Aberto a novas oportunidades e experiências
 - 📌 Brazil, São Paulo
 
@@ -18,7 +19,6 @@
    <img align="center" alt="react" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
  <img align="center" alt="html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
-
   <img align="center" alt="git" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
   <img align="center" alt="sql" height="30" width="40" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg">
 </div>
@@ -31,18 +31,6 @@
   <img align="center" alt="figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 </div>
 
-<div style="display: inline_block">
- <h2> Certificações 🏆 </h2>
- <a href="https://www.credly.com/earner/earned/share/7fb68213-5fcf-4f77-b436-05c9154f706e">
-  <img width="10%" height="10%"  src="https://images.credly.com/size/680x680/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"/>
- </a>
-  <a href="https://www.credly.com/earner/earned/badge/45f31a15-2c0b-437d-9214-aacb660078d5">
-  <img width="10%" height="10%"  src="https://images.credly.com/size/680x680/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png"/>
- </a>
-   <a href="https://www.credly.com/badges/227b4900-51a6-4cce-81c5-5b7f212622b8">
-  <img width="10%" height="10%"  src="https://images.credly.com/size/680x680/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png"/>
- </a>
-</div>
 
 ## Estatistica 📈
 ![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joaoopeedro&show_icons=true&theme=tokyonight)
