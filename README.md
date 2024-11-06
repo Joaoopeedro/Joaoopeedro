@@ -1,7 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=30&center=true&vCenter=true&pause=1000&color=6A99E9&width=1000&lines=Ol%C3%A1%2C+seja+bem-vindo(a)+ao+meu+perfil!)](https://git.io/typing-svg)
 
 <div align="center" > 
- <h4>👩🏾‍💻 Me chamo João </h4>
+ <h4>👨🏻‍💻 Me chamo João, sou Desenvolvedor de aplicativos, sou especializado na linguagem Flutter, e também trabalho com UI e UX usando a ferramenta Figma, estou disponível para novos desafios</h4>
+  <h5>Sou o atual representante do Brasil na Modalidade #08 - Desenvolvimento de aplicativos móveis na maior competição profissional do mundo que é a WordSkills Lyon 2024</h5>
 </div>
 
  ![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joaoopeedro&show_icons=true&theme=tokyonight)
@@ -18,12 +19,16 @@
    <img align="center" alt="react" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
  <img align="center" alt="html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
+  <img align="center" alt="figma" height="40" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
+  <img align="center" alt="git" height="40" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+  <img align="center" alt="sql" height="40" width="40" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg">
 </div>
 
 <div style="display: inline_block">
   <h2> Tools ⚙️</h2>
     <img align="center" alt="visualstudio" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg">
     <img align="center" alt="vscode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+ <img align="center" alt="vscode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg">
   <img align="center" alt="figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 </div>
 
@@ -31,8 +36,7 @@
  <h2> Formação acadêmica 🎓 </h2>
  📌 Curso técnico em desenvolvimento de sistemas - SENAI Paulo Skaf (conclusão em dez/2024)
  <br>
- 📌 CO.DE School Fundação Volkswagen - SENAI Paulo Skaf (conclusão em fev/2024)
-</div>
+
 
 <div style="display: inline_block">
  <h2> Certificações 🏆 </h2>
@@ -48,6 +52,7 @@
 </div>
 
 ## Contatos ✉️
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliaathar/)
-  [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juliaranyol@gmail.com)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/juliaathar/](https://www.linkedin.com/in/joao-pedro-ribeiro-085490222/))
+  [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaopedronr37@gmail.com)
+   <a href="https://instagram.com/011_jotape_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
