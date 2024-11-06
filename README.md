@@ -6,7 +6,7 @@
 </div>
 
  ![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joaoopeedro&show_icons=true&theme=tokyonight)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaoopedro&layout=compact&theme=tokyonight)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaoopeedro&layout=compact&theme=tokyonight)
 
 <div style="display: inline_block">
  <h2> Skills 💻 </h2>
