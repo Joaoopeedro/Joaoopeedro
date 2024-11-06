@@ -5,9 +5,7 @@
   <h5>Sou o atual representante do Brasil na Modalidade #08 - Desenvolvimento de aplicativos móveis na maior competição profissional do mundo que é a WordSkills Lyon 2024</h5>
 </div>
 
- ![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joaoopeedro&show_icons=true&theme=tokyonight)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaoopeedro&layout=compact&theme=tokyonight)
-
+ 
 <div style="display: inline_block">
  <h2> Skills 💻 </h2>
   <img align="center" alt="csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -19,9 +17,9 @@
    <img align="center" alt="react" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
  <img align="center" alt="html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
-  <img align="center" alt="figma" height="40" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
-  <img align="center" alt="git" height="40" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
-  <img align="center" alt="sql" height="40" width="40" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg">
+
+  <img align="center" alt="git" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+  <img align="center" alt="sql" height="30" width="40" src="https://www.svgrepo.com/show/331760/sql-database-generic.svg">
 </div>
 
 <div style="display: inline_block">
@@ -50,6 +48,10 @@
   <img width="10%" height="10%"  src="https://images.credly.com/size/680x680/images/fc1352af-87fa-4947-ba54-398a0e63322e/security-compliance-and-identity-fundamentals-600x600.png"/>
  </a>
 </div>
+
+## Estatistica 📈
+![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joaoopeedro&show_icons=true&theme=tokyonight)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaoopeedro&layout=compact&theme=tokyonight)
 
 ## Contatos ✉️
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/juliaathar/](https://www.linkedin.com/in/joao-pedro-ribeiro-085490222/))
