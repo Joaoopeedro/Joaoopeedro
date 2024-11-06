@@ -1,19 +1,18 @@
-## Hi there 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=30&center=true&vCenter=true&pause=1000&color=6A99E9&width=1000&lines=Ol%C3%A1%2C+seja+bem-vindo(a)+ao+meu+perfil!)](https://git.io/typing-svg)
 
 <div align="center" > 
  <h4>👩🏾‍💻 Me chamo João </h4>
 </div>
 
- ![Júlia's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliaathar&show_icons=true&theme=tokyonight)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliaathar&layout=compact&theme=tokyonight)
+ ![João's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joaoopeedro&show_icons=true&theme=tokyonight)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Joaoopedro&layout=compact&theme=tokyonight)
 
 <div style="display: inline_block">
  <h2> Skills 💻 </h2>
   <img align="center" alt="csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
- <img align="center" alt="python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
    <img align="center" alt="flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+ <img align="center" alt="flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/">
   <img align="center" alt="sqlserver" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
   <img align="center" alt="mysql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
    <img align="center" alt="react" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
